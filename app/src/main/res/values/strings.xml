@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Firebase Contacts</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="email_address">Email address</string>
+
+    <string name="set_permissions_in_settings">Go to Settings -> Apps and Notifications ->
+        Firebase Contacts -> App Permissions and grant access to Storage.</string>
+    <string name="delete">Delete</string>
+    <string name="select_birth_date">Select Birth date</string>
+    <string name="save">Save</string>
+    <string name="large_text">Large Text</string>
+    <string name="edit">Edit</string>
+    <string name="title_add_contact">Add Contact</string>
+    <string name="title_update_contact">Update Contact</string>
+    <string name="please_enter_first_name">Please enter first name</string>
+    <string name="please_enter_last_name">Please enter last name</string>
+    <string name="please_enter_phone_number">Please enter phone number</string>
+    <string name="please_enter_email_address">Please enter email address</string>
+    <string name="please_select_birth_date">Please select Birth date</string>
+    <string name="please_select_photo">Please select photo</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="please_enter_valid_phone_number">Please enter valid Phone Number</string>
+    <string name="please_enter_valid_email_address">Please enter valid Email Address</string>
+    <string name="failed_deleting_image_from_firebase_store">Failed to Delete Image from Firebase Store</string>
+    <string name="successfully_deleted_contact_from_firebase_database">Successfully Deleted contact from Firebase database</string>
+    <string name="failed_to_delete_contact_from_firebase_database">Failed to Delete contact from Firebase database</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="select_image">Select Image</string>
+</resources>
