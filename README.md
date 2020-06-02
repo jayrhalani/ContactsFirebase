@@ -4,8 +4,8 @@ A lite Contact app, that lets you save contact information. This app uses MVVM a
 
 ## Screenshots
 
-<img src="./art/screen1.png">&ensp;<img src="./art/screen_2.png">
-<img src="./art/screen3.png">
+<img src="./art/screen_1.png">&ensp;<img src="./art/screen_2.png">
+<img src="./art/screen_3.png">
 
 ## Libraries Used
 
