@@ -8,9 +8,10 @@ A lite Contact app, that lets you save contact information. This app uses MVVM a
 * [Android Support Library](https://developer.android.com/topic/libraries/support-library/)
 * [Firebase](https://firebase.google.com/)
 * [Glide](https://github.com/bumptech/glide)
+* [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
+* [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 
 ## Screenshots
 
-<img src="./art/screen_1.png">&ensp;<img src="./art/screen_2.png">
-<img src="./art/screen_3.png">
+<img src="./art/screen_1.png">&ensp;<img src="./art/screen_2.png">&ensp;<img src="./art/screen_3.png">
 
