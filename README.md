@@ -12,9 +12,7 @@ A lite Contact app, that lets you save contact information. This app uses MVVM a
 * [LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 
 ## Screenshots
-<p style="display: inline-block;">
-<img align="left" width="480" height="auto" src="./art/screen_1.png">
-</p>
-<p style="display: inline-block;">
-<img align="right" width="480" height="auto" src="./art/screen_2.png">
-</p>
+
+<img style="margin-bottom: 30px" align="left" width="360" height="650" src="./art/screen_1.png">
+<img  style="margin-bottom: 30px" align="right" width="360" height="650" src="./art/screen_2.png">
+<img align="left" width="360" height="650" src="./art/screen_3.png">
